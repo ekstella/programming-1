@@ -1,4 +1,4 @@
-package Viikko2ehtolauseet;
+package Viikko1perusteet;
 
 import java.util.Scanner;
 
